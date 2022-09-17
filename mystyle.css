@@ -1,0 +1,145 @@
+body {
+    background-image: url("");
+}
+
+
+
+.intro {
+    margin: 0 auto;
+    width: 1000px;
+
+}
+
+.zanu p {
+    margin: 0 auto;
+    width: 300px;
+    position: relative;
+    left: 70px;
+    line-height: 25px;
+
+}
+
+.zanu img {
+    width: 150px;
+    position: relative;
+    bottom: 120px;
+    left: 200px;
+}
+
+.zanu img:hover {
+    opacity: 0.3;
+}
+
+.zanu h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.section {
+    width: 290px;
+}
+
+.section img {
+    width: 290px;
+}
+
+.rai {
+    border: 3px solid red;
+    padding-left: 50px;
+    margin-right: 0px;
+    width: 900px;
+    position: relative;
+    bottom: 60px;
+    background-color: blueviolet;
+}
+
+.rai:hover {
+    color: aqua;
+}
+
+.aaa {
+    position: relative;
+    bottom: 50px;
+}
+
+.selector p {
+    width: 600px;
+    line-height: 25px;
+    position: relative;
+    left: 300px;
+}
+
+.selector img {
+    position: relative;
+    bottom: 100px;
+}
+
+.selector a {
+    position: relative;
+    bottom: 140px;
+    left: 10px;
+}
+
+.niru {
+    position: relative;
+    bottom: 200px;
+}
+
+.niru p {
+    width: 600px;
+    line-height: 25px;
+    position: relative;
+    left: 300px
+}
+
+.niru img {
+    position: relative;
+    bottom: 70px;
+}
+
+.niru a {
+    position: relative;
+    bottom: 110px;
+    left: 10px;
+}
+
+.syntax P {
+    width: 900px;
+    line-height: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.syntax img {
+    width: 600px;
+}
+
+.syntax {
+    position: relative;
+    bottom: 300px;
+}
+
+.gyanu {
+    border: 4px solid black;
+    width: 1000px;
+    padding-left: 50px;
+    background-color: yellow;
+}
+
+.gyanu:hover {
+    color: red;
+    opacity: 0.5;
+}
+
+.syntax img:hover {
+    opacity: 0.7;
+}
+
+.import {
+    border: 5px solid aqua;
+    position: relative;
+    bottom: 300px;
+    background-color: wheat;
+    width: 400px;
+    padding-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
